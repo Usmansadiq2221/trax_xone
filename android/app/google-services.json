@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "337105194716",
+    "project_id": "trax-xone-b5ce0",
+    "storage_bucket": "trax-xone-b5ce0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337105194716:android:44dd17891a5b6a46596e19",
+        "android_client_info": {
+          "package_name": "com.devtwist.traxxone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337105194716-isso1qvltvvnmtvqs58su4mpc1du62dt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArfJBn-Lkd8jyflyob3Wb5oYNf80_2bXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337105194716-4r5n62dk0aldf1u5p2bqtukot018dk2b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "337105194716-vjv5drpjjqdjr8q8qf00dpknvs922f1j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.traxXone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
